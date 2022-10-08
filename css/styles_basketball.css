@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+canvas {
+    margin: auto;
+    border: thin solid black;
+}
+span {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
